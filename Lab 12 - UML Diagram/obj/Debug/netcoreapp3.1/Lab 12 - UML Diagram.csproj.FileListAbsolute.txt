@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\bin\Debug\netcoreapp3.1\Lab 12 - UML Diagram.exe
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\bin\Debug\netcoreapp3.1\Lab 12 - UML Diagram.deps.json
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\bin\Debug\netcoreapp3.1\Lab 12 - UML Diagram.runtimeconfig.json
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\bin\Debug\netcoreapp3.1\Lab 12 - UML Diagram.runtimeconfig.dev.json
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\bin\Debug\netcoreapp3.1\Lab 12 - UML Diagram.dll
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\bin\Debug\netcoreapp3.1\Lab 12 - UML Diagram.pdb
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\obj\Debug\netcoreapp3.1\Lab 12 - UML Diagram.csprojAssemblyReference.cache
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\obj\Debug\netcoreapp3.1\Lab 12 - UML Diagram.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\obj\Debug\netcoreapp3.1\Lab 12 - UML Diagram.AssemblyInfo.cs
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\obj\Debug\netcoreapp3.1\Lab 12 - UML Diagram.dll
+C:\Users\shami\source\repos\Lab 12 - UML Diagram\Lab 12 - UML Diagram\obj\Debug\netcoreapp3.1\Lab 12 - UML Diagram.pdb
